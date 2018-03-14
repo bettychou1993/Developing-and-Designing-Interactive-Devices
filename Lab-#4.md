@@ -173,8 +173,8 @@ Make a timer that uses any of the input devices to set a time, and then automati
 Note that for some of you, the time may seem to be decremented by 10 each second (that is, from 670=>660). Why is this? Do you think it's a hardware or software issue? Think about how 100 vs. 99 is written to the screen, and ask an instructor.
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
-
 **b. Post a link to the completed lab report to the class Slack.**
+https://drive.google.com/file/d/1Ek2Silhh74k_dV5PV_Cdqfl03qNib44P/view?usp=sharing
 
 ## OPTIONAL:
 ## Part E. Tone
